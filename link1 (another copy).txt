@@ -1,0 +1,2 @@
+1 Install Prerequisites
+sudo apt-get install gcc git wget make libncurses-dev flex bison gperf python python-serial
